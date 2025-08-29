@@ -8,7 +8,6 @@
 [![Ansible CII Best Practices certification](https://bestpractices.coreinfrastructure.org/projects/2372/badge)](https://bestpractices.coreinfrastructure.org/projects/2372)
 
 
-test
 # Ansible
 
 Ansible is a radically simple IT automation system. It handles
